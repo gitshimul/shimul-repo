@@ -1,0 +1,32 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 67%;
+}
+
+.link-button {
+    padding: 10px 10px;
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
